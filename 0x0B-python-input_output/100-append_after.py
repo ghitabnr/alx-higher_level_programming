@@ -11,4 +11,4 @@ def append_after(filename="", search_string="", new_string=""):
             if search_string in line:
                 new_str += new_string
     with open(filename, "w") as f:
-        f.write(new_str)/
+        f.write(new_str)
