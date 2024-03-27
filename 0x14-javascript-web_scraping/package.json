@@ -10,10 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghitabnr/alx-higher_level_programming"
   }
-}
-"repository": {
-  "type": "git",
-  "url": "https://github.com/ghitabnr/alx-higher_level_programming"
 }
 
